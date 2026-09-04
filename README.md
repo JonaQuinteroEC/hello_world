@@ -1,6 +1,6 @@
 # hello_world I'm Jonatan
 
-## 1️⃣ Primeros pasos para manejar correctamente repositorios
+## 1️⃣ Primeros pasos para manejar correctamente repositorio.s
 
 👣 New Proyect/ Versin Control / Git / Repository URL
 
